@@ -1,3 +1,2 @@
-# README
-## About me
+## README
 Hi, I'm new here! 
